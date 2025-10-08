@@ -51,7 +51,7 @@ def main():
     if not filename:
         filename = "sample.log"
 
-    result = processor.process_logs(filename)
+    result = processor.process_logs("logs/"+filename)
     
     if result:
         print("\nResults:")
