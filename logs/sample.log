@@ -1,0 +1,8 @@
+2024-01-15 10:00:01 192.168.1.1 - ERROR: Database connection failed
+2024-01-15 10:00:02 192.168.1.2 - INFO: User login successful
+2024-01-15 10:00:03 192.168.1.1 - WARNING: High memory usage
+2024-01-15 10:00:04 192.168.1.3 - ERROR: File not found
+2024-01-15 10:00:05 192.168.1.2 - INFO: Backup started
+2024-01-15 10:00:06 192.168.1.4 - INFO: Server started
+2024-01-15 10:00:07 192.168.1.1 - ERROR: Timeout occurred
+2024-01-15 10:00:08 192.168.1.5 - WARNING: Disk space low
